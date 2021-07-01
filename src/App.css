@@ -1,38 +1,139 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,200;0,400;1,400&display=swap');
+
+/* general styles */
+:root {
+    --blue: #3685cf;
+    --pale-mint: #cbdaf5;
+    --cream: #f1f0f5;
+    --deep-marroon: #785964;
+    --onyx: #0a0a0a;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+* {
+    margin: 0;
+    padding: 0 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+html, body, #root, main, ul {
+    height: 100%;
+    margin: 0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#root {
+    background-color: var(--pale-mint);
 }
 
-.App-link {
-  color: #61dafb;
+
+p, label {
+    font-family: 'Raleway', sans-serif;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+a {
+    text-decoration: none;
+}
+
+li {
+    color: var(--blue);
+    list-style-type: none;
+}
+
+h2 {
+    color: var(--onyx);
+    font-family: 'Raleway', sans-serif;
+}
+
+.title {
+    color: var(--onyx);
+}
+
+
+/* header */
+header {
+    background-color: var(--onyx);
+    height: 8%;
+}
+
+.initials {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: var(--blue);
+    align-self: center;
+    padding-left: 8%;
+    margin-bottom: 0;
+}
+
+/* nav */
+.navActive {
+    color: var(--cream);
+    font-weight: bold;
+}
+
+/* about me */
+.about-me {
+    width: 100%;
+    background-color: var(--blue);
+    padding: 3%;
+}
+
+.about-me img {
+    max-width: 100%;
+    border-radius: 0%;
+    padding: 2% 2%;
+}
+
+.about-me p {
+    font-size: 20px;
+}
+
+/* portfolio */
+.portfolio {
+    background-color: var(--blue);
+    width: 100%;
+}
+
+.portfolio h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: var(--onyx);
+}
+
+
+.project-text a{
+    color: var(--onyx);
+}
+
+/* contact */
+.contact {
+    background-color: var(--blue);
+    width: 100%;
+}
+
+
+button {
+    width: 80% !important;
+    color: var(--cream) !important;
+    background-color: var(--onyx) !important;
+}
+
+/* resume */
+.resume {
+    background-color: var(--blue);
+    list-style-type: square;
+    width: 100%;
+    padding: 3%;
+}
+
+/* footer */
+footer {
+    background-color: var(--onyx);
+    height: 8%;
+}
+
+footer a {
+    color: var(--blue);
+}
+
+footer a:hover {
+    color: var(--cream);
 }
