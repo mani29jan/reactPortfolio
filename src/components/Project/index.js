@@ -9,6 +9,7 @@ const Project = ({ project }) => {
             <div class="col align-self-center">
                 <h2 className='title text-center'>{project.name}</h2>
                 <div className="project-text row">
+                    <p className='col-6 text-center'><a href={project.repoUrl}>Click here for git repo</a></p>
                 </div>
             </div>
         </div>
