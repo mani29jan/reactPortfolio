@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactPortfolio/static/css/main.eb445cd6.chunk.css",
-    "main.js": "/reactPortfolio/static/js/main.bbb0da81.chunk.js",
-    "main.js.map": "/reactPortfolio/static/js/main.bbb0da81.chunk.js.map",
+    "main.js": "/reactPortfolio/static/js/main.049fc14d.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.049fc14d.chunk.js.map",
     "runtime-main.js": "/reactPortfolio/static/js/runtime-main.808a5e23.js",
     "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.808a5e23.js.map",
     "static/css/2.d45d6843.chunk.css": "/reactPortfolio/static/css/2.d45d6843.chunk.css",
@@ -18,13 +18,15 @@
     "static/media/Weather-dashboard.660f4c18.png": "/reactPortfolio/static/media/Weather-dashboard.660f4c18.png",
     "static/media/about-me.37b70f11.jpg": "/reactPortfolio/static/media/about-me.37b70f11.jpg",
     "static/media/bookSearch.23e3b9a7.jpg": "/reactPortfolio/static/media/bookSearch.23e3b9a7.jpg",
-    "static/media/budgetTracker.3b3cd6b4.jpg": "/reactPortfolio/static/media/budgetTracker.3b3cd6b4.jpg"
+    "static/media/budgetTracker.3b3cd6b4.jpg": "/reactPortfolio/static/media/budgetTracker.3b3cd6b4.jpg",
+    "static/media/notes.222ddeea.jpg": "/reactPortfolio/static/media/notes.222ddeea.jpg",
+    "static/media/socialNetwork.c442154f.jpg": "/reactPortfolio/static/media/socialNetwork.c442154f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.808a5e23.js",
     "static/css/2.d45d6843.chunk.css",
     "static/js/2.e4c27dae.chunk.js",
     "static/css/main.eb445cd6.chunk.css",
-    "static/js/main.bbb0da81.chunk.js"
+    "static/js/main.049fc14d.chunk.js"
   ]
 }
