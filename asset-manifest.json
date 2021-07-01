@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactPortfolio/static/css/main.eb445cd6.chunk.css",
+    "main.js": "/reactPortfolio/static/js/main.bbb0da81.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.bbb0da81.chunk.js.map",
+    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.808a5e23.js",
+    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.808a5e23.js.map",
+    "static/css/2.d45d6843.chunk.css": "/reactPortfolio/static/css/2.d45d6843.chunk.css",
+    "static/js/2.e4c27dae.chunk.js": "/reactPortfolio/static/js/2.e4c27dae.chunk.js",
+    "static/js/2.e4c27dae.chunk.js.map": "/reactPortfolio/static/js/2.e4c27dae.chunk.js.map",
+    "static/js/3.4d54159c.chunk.js": "/reactPortfolio/static/js/3.4d54159c.chunk.js",
+    "static/js/3.4d54159c.chunk.js.map": "/reactPortfolio/static/js/3.4d54159c.chunk.js.map",
+    "index.html": "/reactPortfolio/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/reactPortfolio/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.eb445cd6.chunk.css.map": "/reactPortfolio/static/css/main.eb445cd6.chunk.css.map",
+    "static/js/2.e4c27dae.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.e4c27dae.chunk.js.LICENSE.txt",
+    "static/media/ManpreetSingh.e46d23cd.pdf": "/reactPortfolio/static/media/ManpreetSingh.e46d23cd.pdf",
+    "static/media/Weather-dashboard.660f4c18.png": "/reactPortfolio/static/media/Weather-dashboard.660f4c18.png",
+    "static/media/about-me.37b70f11.jpg": "/reactPortfolio/static/media/about-me.37b70f11.jpg",
+    "static/media/bookSearch.23e3b9a7.jpg": "/reactPortfolio/static/media/bookSearch.23e3b9a7.jpg",
+    "static/media/budgetTracker.3b3cd6b4.jpg": "/reactPortfolio/static/media/budgetTracker.3b3cd6b4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.808a5e23.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.e4c27dae.chunk.js",
+    "static/css/main.eb445cd6.chunk.css",
+    "static/js/main.bbb0da81.chunk.js"
+  ]
+}
