@@ -6,6 +6,7 @@ import techBlog from '../../assets/img/techBlog.jpg';
 import bookSearch from '../../assets/img/bookSearch.jpg';
 import socialNetwork from '../../assets/img/socialNetwork.jpg';
 import notes from '../../assets/img/notes.jpg';
+import calendar from '../../assets/img/calendar-app.jpg';
 
 const Portfolio = () => {
     const projects = [
@@ -38,6 +39,11 @@ const Portfolio = () => {
             name: 'Notes taker',
             repoUrl: 'https://github.com/mani29jan/noteTaker',
             img: notes
+        },
+        {
+            name: 'Calendar',
+            repoUrl: 'https://github.com/mani29jan/calendar-app',
+            img: calendar
         },
 
     ];
